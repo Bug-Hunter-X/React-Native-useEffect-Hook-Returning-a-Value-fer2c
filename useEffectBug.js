@@ -1,0 +1,1 @@
+This error occurs when using the `useEffect` hook in React Native with a function that returns a value other than `undefined`. The extra value returned causes a warning from React and it might cause unexpected behavior.
